@@ -1,4 +1,4 @@
-<img src="http://www.reddit.com/r/reactiongifs/comments/3a8akf/my_cats_reaction_when_i_leave_home/" width="500" >
+<img aling="center" src="https://twitter.com/SpaceCatPics/status/1153654129224507392">
 <h1 align="center">Hi 👋, I'm Enzo</h1>
 <h3 align="center">League player and Computer Engineering Student</h3>
 
