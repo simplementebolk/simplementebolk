@@ -1,4 +1,14 @@
-###  Hola gente ^_^👋
+###  Hello guys ^_^👋
+
+My name is Enzo, I'm from Chile and currently I'm studying Computer Engineering
+
+*Currently studying in Duoc UC
+
+##Skills
+
+*Some Python Coding
+*Java Coding
+*SQL
 
 <!--
 **simplementebolk/simplementebolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
