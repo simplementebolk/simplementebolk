@@ -1,5 +1,5 @@
 <div aling="center">
-    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="600">
 </div>
 <h1 align="center">Hi 👋, I'm Enzo</h1>
 <h3 align="center">League player and Computer Engineering Student</h3>
