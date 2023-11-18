@@ -1,26 +1,21 @@
-###  Hello guys ^_^👋
+<h1 align="center">Hi 👋, I'm Enzo</h1>
+<h3 align="center">League player and Computer Engineering Student</h3>
 
-My name is Enzo, I'm from Chile and currently I'm studying Computer Engineering
+<p align="left"> <a href="https://twitter.com/bolkuwu" target="blank"><img src="https://img.shields.io/twitter/follow/bolkuwu?logo=twitter&style=for-the-badge" alt="bolkuwu" /></a> </p>
 
-*Currently studying in Duoc UC
+- 🌱 I’m currently learning **Html and css**
 
-##Skills
+- 📫 How to reach me **en.araya@duocuc.cl**
 
-*Some Python Coding
-*Java Coding
-*SQL
+- ⚡ Fun fact **i love cats :S**
 
-<!--
-**simplementebolk/simplementebolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/bolkuwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bolkuwu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bolktriste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bolktriste" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplementebolk&show_icons=true&locale=en&layout=compact" alt="simplementebolk" /></p>
