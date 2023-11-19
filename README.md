@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bolkuwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bolkuwu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/enzo-rodrigo-damian-araya-venegas-b655062a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo rodrigo damian araya venegas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/enzo-rodrigo-damian-araya-venegas-b655062a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Enzo Rodrigo Damian Araya Venegas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bolktriste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bolktriste" height="30" width="40" /></a>
 </p>
 
